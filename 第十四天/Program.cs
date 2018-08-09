@@ -10,6 +10,7 @@ namespace 第十四天
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
