@@ -20,7 +20,7 @@ namespace MD5加密
         {
             MD5 md5 = MD5.Create();
             byte[] buffer = Encoding.Default.GetBytes(str);
-            byte[] md5Buffer = md5.ComputeHash(buffer);
+            byte[] md5Buffer = md5.ComputeHash(buffer);    
             string temp = "";
             for (int i = 0; i < md5Buffer.Length; i++)
             {
