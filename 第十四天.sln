@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5加密", "MD5加密\MD5�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{450E1065-60EE-4DDB-A754-060955FDA11C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do You Love Me", "Do You Love Me\Do You Love Me.csproj", "{BCFCDD8B-B0A7-463B-9C6D-5F3A5AE7BAAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{450E1065-60EE-4DDB-A754-060955FDA11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{450E1065-60EE-4DDB-A754-060955FDA11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{450E1065-60EE-4DDB-A754-060955FDA11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFCDD8B-B0A7-463B-9C6D-5F3A5AE7BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFCDD8B-B0A7-463B-9C6D-5F3A5AE7BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFCDD8B-B0A7-463B-9C6D-5F3A5AE7BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFCDD8B-B0A7-463B-9C6D-5F3A5AE7BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
